@@ -1,5 +1,5 @@
 # isa-rel
-Relatório de ISA da 🦥
+Relatório de ISA da preguiça 🦥
 
 ## Material
 
